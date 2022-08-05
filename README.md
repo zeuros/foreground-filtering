@@ -9,6 +9,12 @@
 python -m pip install -r requirements.txt
 ```
 
+## Run program
+
+``` bash
+python run.py 
+```
+
 ## Run tests
 
 In root directory, run
